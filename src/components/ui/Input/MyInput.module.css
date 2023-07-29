@@ -1,0 +1,10 @@
+.myInput {
+    width: 250px;
+    height: 40px;
+    padding: 10px 10px;
+    margin: 1px;
+    border:  1px solid darkgray;
+    border-radius: 5px;
+    background-color: lavender;
+    pointer-events: bounding-box;
+}
